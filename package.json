@@ -1,0 +1,14 @@
+{
+  "name": "telegram-bot-base",
+  "version": "1.0.0",
+  "description": "Telegram bot base",
+  "devDependencies": {
+    "serverless": "^3.12.0",
+    "serverless-python-requirements": "^5.4.0"
+  },
+  "scripts": {
+    "deploy": "serverless deploy"
+  },
+  "author": "",
+  "license": "ISC"
+}
